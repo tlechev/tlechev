@@ -108,9 +108,9 @@ I’m also growing my Python data-science toolkit and exploring **PyTorch** and 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlechev/tlechev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tlechev/tlechev/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/tlechev/tlechev/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlechev/tlechev/output/github-contribution-grid-snake-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tlechev/tlechev/output/github-contribution-grid-snake.gif">
+    <img alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/tlechev/tlechev/output/github-contribution-grid-snake.gif">
   </picture>
 </div>
 
