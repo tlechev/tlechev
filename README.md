@@ -18,7 +18,7 @@
 
 ### 🧭 Explore
 
-[About](#-about-me) · [What I’m exploring](#-what-im-exploring) · [Projects](#-featured-projects) · [Toolbox](#-toolbox) · [GitHub stats](#-github-at-a-glance) · [Contributions](#-my-contributions-one-bite-at-a-time)
+[About](#-about-me) · [What I’m exploring](#-what-im-exploring) · [Projects](#-featured-projects) · [Toolbox](#-toolbox) · [GitHub stats](#-github-at-a-glance)
 
 ## 💫 About Me
 
