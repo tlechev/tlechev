@@ -78,11 +78,30 @@ I’m also growing my Python data-science toolkit and exploring **PyTorch** and 
 
 ## 📊 GitHub at a Glance
 
+## 📊 GitHub at a Glance
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=tlechev&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tlechev&theme=radical&hide_border=true&layout=compact" alt="Most-used languages" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=tlechev&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=tlechev&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=tlechev&theme=default&hide_border=true&include_all_commits=false&count_private=false">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=tlechev&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=tlechev&theme=github_dark&hide_border=true&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=tlechev&theme=default&hide_border=true&layout=compact">
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tlechev&theme=default&hide_border=true&layout=compact" alt="Most-used languages" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tlechev&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=tlechev&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=tlechev&theme=default&hide_border=true" alt="GitHub contribution streak" />
+</picture>
+
 </div>
 
 ---
