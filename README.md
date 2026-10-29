@@ -78,8 +78,6 @@ I’m also growing my Python data-science toolkit and exploring **PyTorch** and 
 
 ## 📊 GitHub at a Glance
 
-## 📊 GitHub at a Glance
-
 <div align="center">
 
 <picture>
