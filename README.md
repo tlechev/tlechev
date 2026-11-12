@@ -44,8 +44,6 @@ I’m also growing my Python data-science toolkit and exploring **PyTorch** and 
 ## 🚀 Featured Projects
 
 | Project | What it explores |
-|---|---|
-| [MLT](https://github.com/tlechev/MLT) | Machine Learning Trading Algorithm 🤖 |
 
 ## 🧰 Toolbox
 
