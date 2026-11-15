@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1>Hey, I'm Teodor 👋</h1>
 
   <a href="https://git.io/typing-svg">
@@ -32,6 +32,7 @@ I enjoy turning engineering problems into practical software and models—from s
   - Develop, simulate, validate, and optimize models
   - Work with **MATLAB, Simulink, Stateflow, C, and Python**
   - Explore machine-learning methods through personal projects
+  - Build software applications and experiment with AI-powered solutions
   - Apply engineering thinking to problems involving data and predictive models
 </details>
 
@@ -41,9 +42,25 @@ I’m especially interested in **machine learning, predictive modeling, and LLMs
 
 I’m also growing my Python data-science toolkit and exploring **PyTorch** and **TensorFlow**.
 
+Recently, I've become particularly interested in applying AI to practical business problems—combining language models, backend engineering, and structured data to build useful applications.
+
 ## 🚀 Featured Projects
 
 | Project | What it explores |
+|---|---|
+| [**AIBAB – AI Business Assistant**](https://github.com/tlechev/AIBAB) | Building a multi-tenant AI-powered business assistant for service-based businesses. Exploring LLM integration, conversational AI, customer management, appointment requests, and secure SaaS architecture. |
+
+**AIBAB tech stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+<sub>Currently in development — focusing on the project foundation, database architecture, and secure multi-tenant data handling.</sub>
 
 ## 🧰 Toolbox
 
@@ -71,7 +88,7 @@ I’m also growing my Python data-science toolkit and exploring **PyTorch** and 
 <details>
   <summary>🌱 Currently exploring</summary>
 
-  PyTorch · TensorFlow · MLflow
+  PyTorch · TensorFlow · MLflow · LLMs · AI application development
 </details>
 
 ## 📊 GitHub at a Glance
